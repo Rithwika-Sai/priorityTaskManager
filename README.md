@@ -1,1 +1,1 @@
-# basic_1
+A command-line Task Management application built using Python that allows users to add, remove, view, and prioritize tasks. Tasks are stored persistently in a CSV file, ensuring data is saved across sessions. The application uses priority-based sorting to help users focus on high-impact tasks first and provides a simple, user-friendly CLI interface.
